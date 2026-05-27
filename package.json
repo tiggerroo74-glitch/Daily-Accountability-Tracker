@@ -1,0 +1,14 @@
+{
+  "name": "daily-accountability-tracker",
+  "version": "2.0.0",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "dev": "vercel dev",
+    "start": "vercel dev"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "latest",
+    "resend": "latest"
+  }
+}
